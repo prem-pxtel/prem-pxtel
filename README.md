@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 I'm Prem Patel, a CS student at the University of Waterloo, also studying Businesss at Wilfrid Laurier University.
 
-📫 You can reach me by email or on LinkedIn
-💬 Ask me about anything! Some things I'm interested in are:
+- 📫 You can reach me by email or on LinkedIn
+- 💬 Ask me about anything! I'm interested in:
 Backend infrastructure, distributed computing, financial systems, and ping pong — yes, the table tennis kind 🏓
