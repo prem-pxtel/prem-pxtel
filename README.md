@@ -19,4 +19,4 @@ I'm Prem Patel, a CS student at the University of Waterloo, also studying Busine
 
 - 📫 You can reach me by email or on LinkedIn
 - 💬 Ask me about anything! I'm interested in:
-Backend infrastructure, distributed computing, financial systems, and ping pong (the table tennis kind) 🏓
+Backend infrastructure, distributed computing, financial systems, and ping pong — yes, the table tennis kind 🏓
