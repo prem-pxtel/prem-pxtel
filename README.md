@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Prem Patel, a senior CS student at the University of Waterloo who's also studying Businesss at Wilfrid Laurier University.
+I'm Prem (prem-pxtel), a senior CS student at the University of Waterloo who's also studying Businesss at Wilfrid Laurier University.
 
 - 📫 You can reach me by [email](mailto:p352pate@uwaterloo.ca) or on [LinkedIn](https://www.linkedin.com/in/prempatel149/)
 - 💬 Ask me about anything!
